@@ -2,7 +2,6 @@
 
 A simple voice-controlled computer assistant that listens to your commands and controls your computer.
 
-![Screenshot](screen.png)
 
 ## What it does
 
@@ -88,9 +87,6 @@ assistant/
 └── requirements.txt     # Dependencies
 ```
 
-## Architecture
-
-![Architecture](archi.png)
 
 ## Contributing
 
